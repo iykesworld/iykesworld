@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iykesworld
-- 👀 I’m interested in frontend web dev and UI/UX
+- 👀 I’m a frontend web developer and UI/UX designer
 - 🌱 I’m currently learning react,flutter AND figma
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me kennethiyke12@gmail.com
+- 📫 How to reach me iykesdesign111@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: socially introverted
 
