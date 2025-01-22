@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iykesworld
+- 👋 Hi, I’m @iykesworld / Iykes design
 - 👀 I’m a frontend web developer and UI/UX designer
-- 🌱 I’m currently learning react,flutter AND figma
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me iykesdesign111@gmail.com
 - 😄 Pronouns: Mr.
